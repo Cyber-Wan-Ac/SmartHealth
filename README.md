@@ -42,6 +42,7 @@ Smart Heart Monitor adalah aplikasi pemantauan detak jantung real-time berbasis 
 
 SmartHealth/
 ├── public/
+│   ├── favicon.ico
 │   ├── index.html
 │   ├── heart-bg.jpg
 │   └── pulse-bg.jpg
