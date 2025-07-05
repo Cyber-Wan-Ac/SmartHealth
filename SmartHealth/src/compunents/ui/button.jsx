@@ -2,7 +2,7 @@
 
 import React from "react";
 
-export const button = ({ children, onClick, type = "button", className = "" }) => {
+export const Button = ({ children, onClick, type = "button", className = "" }) => {
   return (
     <button
       type={type}
