@@ -1,0 +1,106 @@
+/* index.css — Styling global dengan Tailwind + fallback dasar */
+
+/* Import TailwindCSS base styles (pastikan Tailwind dikonfigurasi) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.home-hero {
+  position: relative;
+  width: 100%;
+  min-height: 100vh; /* Full screen */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+
+  /* gunakan background dari public */
+  background: url('../public/pulse-bg.jpg') no-repeat center center fixed;
+}
+
+.home-hero .overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.home-hero .content {
+  position: relative;
+  z-index: 2;
+}
+
+.home-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.home-hero p {
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Body fallback */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fafb;
+  color: #1f2937;
+  margin: 0;
+  padding: 0;
+}
+
+/* Link styling */
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Utility for centering */
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid #e5e7eb;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f3f4f6;
+}
+
+/* Button override (optional) */
+button {
+  cursor: pointer;
+}
