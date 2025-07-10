@@ -175,5 +175,5 @@ Kompilasi dan upload ke ESP32.
 ## 👨‍💻 Kontribusi & Lisensi
 
 Aplikasi ini dikembangkan sebagai bagian dari proyek edukatif dan riset teknologi medis berbasis IoT.
-Lisensi bebas digunakan untuk keperluan penelitian, lomba, dan pengembangan pribadi.
-Untuk kontribusi, fork repo ini dan kirimkan pull request.
+Lisensi bebas digunakan untuk keperluan penelitian, lomba, dan pengembangan pribadi,
+Dengan syarat melakukan kontribusi bersama pemilik kode ini, fork repo ini dan kirimkan pull request.
