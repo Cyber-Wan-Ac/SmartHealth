@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://drive.google.com/file/d/11wNuXYLvGat_N9sxrqPPw0RjSF817RlS/view?usp=sharing]" alt="SmartHeart Preview" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=11wNuXYLvGat_N9sxrqPPw0RjSF817RlS" alt="SmartHeart Preview" width="600"/>
 </p>
 
 <p align="center">
