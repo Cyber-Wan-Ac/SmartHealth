@@ -172,7 +172,7 @@ Kompilasi dan upload ke ESP32.
 
 ---
 ## ✨ Kompunen Kompunen Hardware digunakan :
-
+```
 ❤️‍🔥 Sensor detak jantung & oksigen
   🔹 MAX86141 — sensor optikal PPG dengan akurasi tinggi untuk detak jantung & SpO₂.
 
@@ -196,7 +196,7 @@ Kompilasi dan upload ke ESP32.
   🔹 🔌 Kabel jumper berkualitas baik.
   🔹 🌀 Resistor & kapasitor sesuai kebutuhan.
   🔹 📦 Enclosure/casing pelindung alat.
-
+```
 ---
 
 ## 👨‍💻 Kontribusi & Lisensi
