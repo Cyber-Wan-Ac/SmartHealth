@@ -171,31 +171,31 @@ Kompilasi dan upload ke ESP32.
 * Mode deteksi denyut tak normal
 
 ---
-✨ Ini merupakan perangkat hardware yang digunakan untuk membuat SmartHealth:
+## ✨ Kompunen Kompunen Hardware digunakan :
 
-    Sensor detak jantung & oksigen
-    🔹 MAX86141 — sensor optikal PPG dengan akurasi tinggi untuk detak jantung & SpO₂.
+❤️‍🔥 Sensor detak jantung & oksigen
+  🔹 MAX86141 — sensor optikal PPG dengan akurasi tinggi untuk detak jantung & SpO₂.
 
-    Sensor suhu tubuh
-    🔹 DS18B20 — sensor suhu digital dengan presisi baik.
+🌡️ Sensor suhu tubuh
+  🔹 DS18B20 — sensor suhu digital dengan presisi baik.
 
-    Mikrokontroler dengan konektivitas tinggi
-    🔹 ESP32 — mikrokontroler dengan dual-core, built-in Wi-Fi & Bluetooth, performa tinggi.
+🧠 Mikrokontroler dengan konektivitas tinggi
+  🔹 ESP32 — mikrokontroler dengan dual-core, built-in Wi-Fi & Bluetooth, performa tinggi.
 
-    Catu daya & manajemen baterai
-    🔹 Baterai Li-Po 3.7V kapasitas besar.
-    🔹 Modul charger TP4056 dengan proteksi baterai.
-    🔹 Step-down converter (jika diperlukan untuk stabilisasi tegangan).
+🔋 Catu daya & manajemen baterai
+  🔹 Baterai Li-Po 3.7V kapasitas besar.
+  🔹 ⚡ Modul charger TP4056 dengan proteksi baterai.
+  🔹 🔄 Step-down converter (jika diperlukan untuk stabilisasi tegangan).
 
-    Komponen komunikasi & penyimpanan data
-    🔹 Modul Wi-Fi (built-in pada ESP32) untuk koneksi ke cloud.
-    🔹 Firebase Realtime Database sebagai penyimpanan online.
+🌐 Komponen komunikasi & penyimpanan data
+  🔹 📶 Modul Wi-Fi (built-in pada ESP32) untuk koneksi ke cloud.
+  🔹 ☁️ Firebase Realtime Database sebagai penyimpanan online.
 
-    Perangkat pendukung perakitan
-    🔹 PCB atau perfboard.
-    🔹 Kabel jumper berkualitas baik.
-    🔹 Resistor & kapasitor sesuai kebutuhan.
-    🔹 Enclosure/casing pelindung alat.
+🔧 Perangkat pendukung perakitan
+  🔹 🪛 PCB atau perfboard.
+  🔹 🔌 Kabel jumper berkualitas baik.
+  🔹 🌀 Resistor & kapasitor sesuai kebutuhan.
+  🔹 📦 Enclosure/casing pelindung alat.
 
 ---
 
